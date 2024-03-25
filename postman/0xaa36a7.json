@@ -40,7 +40,7 @@
 		},
 		{
 			"key": "poolIdx",
-			"value": "36000",
+			"value": "420",
 			"type": "default",
 			"enabled": true
 		},
@@ -154,7 +154,7 @@
 		},
 		{
 			"key": "GCGO_POOL_TXS",
-			"value": "https://ambindexer.net/gcgo/pool_txs",
+			"value": "http://51.81.56.123/gcgo/pool_txs",
 			"type": "default",
 			"enabled": true
 		},
